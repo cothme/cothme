@@ -2,7 +2,6 @@
 - 👀 I’m interested in video games, food, coding.
 - 🌱 I’m currently learning game development through monogame, unity engine and pygame, I also want to learn web development
 - 💞️ I’m looking to collaborate with anyone!
-- 📫 You can reach me on Facebook (Migui Cosme) and through email (miguithegreat@gmail.com)
 
 <!---
 cothme/cothme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
